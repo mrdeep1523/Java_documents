@@ -5,17 +5,17 @@
 ## **Core Java**
 
 * **Java Syntax and data types**
-    - [Java Syntax Basics](1.Core%20Java/1.Java%20syntax%20and%20data%20types/1.Java%20Syntax%20Basics.md)
-    - [Java Data Types](1.Core%20Java/1.Java%20syntax%20and%20data%20types/2.Java%20Data%20Types.md)
+    - [Java Syntax Basics](Core%20Java/Java%20syntax%20and%20data%20types/Java%20Syntax%20Basics.md)
+    - [Java Data Types](Core%20Java/Java%20syntax%20and%20data%20types/Java%20Data%20Types.md)
 
 * **Control Statements**
-    - [Conditional (Decision-making) Statements](1.Core%20Java/2.Control%20Statements/1.Conditional%20(Decision-making)%20Statements.md)
-    - [Looping (Iteration) Statements](1.Core%20Java/2.Control%20Statements/2.Looping%20(Iteration)%20Statements.md)
-    - [Branching (Jump) Statements](1.Core%20Java/2.Control%20Statements/3.Branching%20(Jump)%20Statements.md)
+    - [Conditional (Decision-making) Statements](Core%20Java/Control%20Statements/Conditional%20(Decision-making)%20Statements.md)
+    - [Looping (Iteration) Statements](Core%20Java/Control%20Statements/Looping%20(Iteration)%20Statements.md)
+    - [Branching (Jump) Statements](Core%20Java/Control%20Statements/Branching%20(Jump)%20Statements.md)
 
 * **Object Oriented Programming(OOP)**
-    - [Class](1.Core%20Java/3.Object%20Oriented%20Programming/1.Class.md)
-    - [Object](1.Core%20Java/3.Object%20Oriented%20Programming/2.Object.md)
-    - [Inheritance](1.Core%20Java/3.Object%20Oriented%20Programming/3.Inheritance.md)
-    - [Polymorphism](1.Core%20Java/3.Object%20Oriented%20Programming/4.Polymorphism.md)
-    - [Encapsulation](1.Core%20Java/3.Object%20Oriented%20Programming/5.Encapsulation.md)
+    - [Class](Core%20Java/Object%20Oriented%20Programming/Class.md)
+    - [Object](Core%20Java/Object%20Oriented%20Programming/Object.md)
+    - [Inheritance](Core%20Java/Object%20Oriented%20Programming/Inheritance.md)
+    - [Polymorphism](Core%20Java/Object%20Oriented%20Programming/Polymorphism.md)
+    - [Encapsulation](Core%20Java/Object%20Oriented%20Programming/Encapsulation.md)
