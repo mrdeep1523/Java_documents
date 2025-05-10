@@ -18,3 +18,4 @@
     - [Object](1.Core%20Java/3.Object%20Oriented%20Programming/2.Object.md)
     - [Inheritance](1.Core%20Java/3.Object%20Oriented%20Programming/3.Inheritance.md)
     - [Polymorphism](1.Core%20Java/3.Object%20Oriented%20Programming/4.Polymorphism.md)
+    - [Encapsulation](1.Core%20Java/3.Object%20Oriented%20Programming/5.Encapsulation.md)
