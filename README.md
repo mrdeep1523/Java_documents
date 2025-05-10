@@ -27,3 +27,4 @@
     - [super keyword](Core%20Java/Object%20Oriented%20Programming/super%20keyword.md)
     - [final keyword](Core%20Java/Object%20Oriented%20Programming/final%20keyword.md)
     - [Access Modifiers](Core%20Java/Object%20Oriented%20Programming/Access%20Modifiers.md)
+    - [Interfaces](Core%20Java/Object%20Oriented%20Programming/Interfaces.md)
